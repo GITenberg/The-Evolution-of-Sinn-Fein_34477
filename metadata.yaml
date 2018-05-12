@@ -1,0 +1,29 @@
+_repo: The-Evolution-of-Sinn-Fein_34477
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Henry, Robert Mitchell
+    birthdate: 1873
+    deathdate: 1950
+    gutenberg_agent_id: '37050'
+    url: http://www.gutenberg.org/2009/agents/37050
+description: ''
+gutenberg_issued: '2010-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34477'
+  lccn: '21000343'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Politics and government'
+- !lcsh 'Sinn Fein'
+- !lcsh 'Political parties -- Ireland -- History'
+- !lcc 'DA'
+title: The Evolution of Sinn Fein
+url: http://www.gutenberg.org/ebooks/34477
